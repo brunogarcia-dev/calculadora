@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+    background: rgb(70, 142, 236);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 550px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+}
+
+input {
+    text-align: center;
+    height: 40px;
+    font-size: 14pt;
+}
+
+input.campo {
+    width: 80px;
+}
+
+input#calcular {
+    background-color: green;
+}
+
+input#limpar {
+    background-color: red;
+}
+
+p#tot { 
+    font-size: 20pt;
+    background-color: grey;
+    text-align: center;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
